@@ -5,3 +5,4 @@ King
 Ahito
 Bakugo
 Cid
+JoyBoy
