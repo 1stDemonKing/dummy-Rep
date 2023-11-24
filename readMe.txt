@@ -3,3 +3,4 @@ Demon King
 Sabastian
 King
 Ahito
+Bakugo
